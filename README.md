@@ -7,8 +7,7 @@
 
  # Projects
  > Coding up interesting projects and tutorials I come across
- - Twitter Sentiment Analysis
+ - [Twitter Sentiment Analysis](https://github.com/CateGitau/Natural_Language_Processing/tree/master/twitter_sentiment)
 
  # Implementations
  > Implementing research papers from arXiv
- 
